@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- ⚡ Fun fact **I am an artist and vintage collector.**
+- ⚡ Fun fact : **I am a watercolor artist and vintage collector.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
