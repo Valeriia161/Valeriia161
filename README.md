@@ -1,3 +1,5 @@
+![banner](https://github.com/Valeriia161/Colorado_test/blob/main/logo.png)
+
 
 <h1 align="center">Hi there! 👋 I'm Valeriia.</h1>
 
