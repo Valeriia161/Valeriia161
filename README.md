@@ -1,4 +1,4 @@
-![banner](https://github.com/Valeriia161/Colorado_test/blob/main/logo.png)
+![banner](https://raw.githubusercontent.com/Valeriia161/Colorado_test/91eb12bf3d632ac971bc889252996014f8813b4b/logo2.png)
 
 
 <h1 align="center">Hi there! 👋 I'm Valeriia.</h1>
@@ -26,4 +26,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valeriia161&" alt="valeriia161" /></p>
 
-![](https://media.giphy.com/media/jakQnxhPwrbOdEZDul/giphy.gif)
